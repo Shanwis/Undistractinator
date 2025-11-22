@@ -1,4 +1,4 @@
-# Productivity extension
+# Undistractinator
 
 I am trying to make an extension for improving productivity while using the internet.
 
